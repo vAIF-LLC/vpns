@@ -1,0 +1,56 @@
+{
+    "Amsterdam": {
+        "Address": "165.22.202.15",
+        "Country": "Netherlands",
+        "Flag": "237-netherlands",
+        "PSK": "MHboKpBMwtvEon9BxBkH",
+        "Password": "hZwtCdKecJBuaBdE",
+        "Premium": "false",
+        "Username": "vpnuser"
+    },
+    "Frankfurt": {
+        "Address": "134.122.65.125",
+        "Country": "Germany",
+        "Flag": "162-germany",
+        "PSK": "eLU7S6pCJigUPhypPwb3",
+        "Password": "5SEM5nrXZo5TjWvE",
+        "Premium": "false",
+        "Username": "vpnuser"
+    },
+    "London": {
+        "Address": "167.99.202.81",
+        "Country": "United Kingdom",
+        "Flag": "260-united-kingdom",
+        "PSK": "Y9gLP37PG9H7FChHfbEn",
+        "Password": "aW243qdZbKRW9phJ",
+        "Premium": "true",
+        "Username": "vpnuser"
+    },
+    "San Francisco": {
+        "Address": "167.99.98.176",
+        "Country": "United States",
+        "Flag": "263-united-states",
+        "PSK": "5PNF8vY8kRJTRuetxa7Z",
+        "Password": "sB5uFSqsufRUy9q4",
+        "Premium": "true",
+        "Username": "vpnuser"
+    },
+    "Singapore": {
+        "Address": "178.128.126.151",
+        "Country": "Singapore",
+        "Flag": "230-singapore",
+        "PSK": "c5SaUcocHMWfBn5KjeUw",
+        "Password": "prNzoBf6pfBjqpXn",
+        "Premium": "true",
+        "Username": "vpnuser"
+    },
+    "Toronto": {
+        "Address": "138.197.137.97",
+        "Country": "Canada",
+        "Flag": "243-canada",
+        "PSK": "kxVYavMWEvismkJGYAMh",
+        "Password": "PrpaRmAJEjYyb7BS",
+        "Premium": "true",
+        "Username": "vpnuser"
+    }
+}
